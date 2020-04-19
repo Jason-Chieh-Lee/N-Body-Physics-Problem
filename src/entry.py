@@ -1,5 +1,6 @@
 from tkinter import *
 
+
 class Text_Entry:
     def __init__(self, root, value, row, column, padx, pady):
         self.entry = Entry(root)
